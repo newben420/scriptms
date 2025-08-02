@@ -115,7 +115,7 @@ ScriptMS is a lightweight, open-source system designed to help manage and genera
 
 3. Workflow:
     - **Add Cities**: Navigate to the "Data" section and create a new city.
-    - *Add Years**:  Within a city, add specific years to organize your scripts.
+    - **Add Years**:  Within a city, add specific years to organize your scripts.
     - **Generate Scripts**:  Use the Groq-powered AI to generate scripts by providing a city, year, and optional base ideas.
     - **Edit Scripts**:  Modify generated scripts directly in the editor.
     - **Production Notes**:  Add voice-over, music, and automation details for a complete production pipeline.
