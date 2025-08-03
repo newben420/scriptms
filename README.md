@@ -17,6 +17,43 @@ ScriptMS is a lightweight, open-source system designed to help manage and genera
 
 ---
 
+## Tests
+
+I tested six models on Abuja 2050 with no base ideas.
+
+1. deepseek-r1-distill-llama-70b
+2. compound-beta
+3. gemma2-9b-it
+4. llama-3.3-70b-versatile
+5. qwen/qwen3-32b
+6. moonshotai/kimi-k2-instruct
+
+Their responses are saved in [test/output.json](./test/output.json)
+
+I then asked ChatGPT and Groq to evaluate the responses and rate each model. Below are the ratings, from highest to lowest:
+
+### ChatGPT
+
+1. moonshotai/kimi-k2-instruct
+2. qwen/qwen3-32b
+3. deepseek-r1-distill-llama-70b
+4. llama-3.3-70b-versatile
+5. gemma2-9b-it
+6. compound-beta
+
+### Grok
+
+1. qwen/qwen3-32b
+2. moonshotai/kimi-k2-instruct
+3. llama-3.3-70b-versatile
+4. deepseek-r1-distill-llama-70b
+5. gemma2-9b-it
+6. compound-beta
+
+Due to the ratings above, I would recommend using `moonshotai/kimi-k2-instruct` or `qwen/qwen3-32b` for the best experience.
+
+---
+
 ## Screenshot (Demo)
 
 <p align="center">
@@ -96,6 +133,7 @@ ScriptMS is a lightweight, open-source system designed to help manage and genera
      # meta-llama/llama-4-maverick-17b-128e-instruct meta-llama/llama-4-scout-17b-16e-instruct
      # meta-llama/llama-guard-4-12b meta-llama/llama-prompt-guard-2-22m
      # meta-llama/llama-prompt-guard-2-86m mistral-saba-24b qwen-qwq-32b qwen/qwen3-32b
+     # moonshotai/kimi-k2-instruct
      GROQ_REQUEST_TIMEOUT_MS="0"
      GROQ_MAX_RETRIES="4"
      GROQ_HTTP_TIMEOUT_MS="60000"

@@ -1,0 +1,470 @@
+{
+    "deepseek-r1-distill-llama-70b": {
+        "script": {
+            "hook": "Abuja 2050: Where ancient traditions meet tomorrow's tech!",
+            "story": [
+                "In 2050, Abuja stands as a beacon of Afro-futurism, where the hum of hoverbikes and the glow of solar panels blend with the vibrant beats of Afrobeats. The National Mosque and Cathedral now serve as community hubs, hosting interfaith dialogues and tech workshops.",
+                "The city's central district features the Zuma Quantum Park, where augmented reality meets traditional art. Here, digital Yoruba Orishas guide visitors through a labyrinth of knowledge, blending mythology with quantum science.",
+                "Abuja's markets have evolved into 'Smart Souks,' where merchants in adire textiles use blockchain for transactions. The air is filled with the aroma of jollof rice cooked by solar stoves, as drones deliver goods with precision.",
+                "The Durbar Festival has transformed into a holographic spectacle, with 3D projections of historical figures dancing to AI-generated beats. This fusion of past and future draws global crowds, celebrating Abuja's resilience and innovation."
+            ],
+            "close": "Imagine the possibilities—Abuja 2050, where tradition and tech unite. What's your vision for the future?"
+        },
+        "visuals": {
+            "hook": {
+                "description": "A panoramic view of Abuja with sleek skyscrapers, flying vehicles, and greenery. Traditional clothing with futuristic elements, vibrant markets, and advanced tech.",
+                "midjourney_prompt": "Panoramic Abuja 2050, Afro-futuristic cityscape, vibrant, fusion of traditional and modern elements, 8k, trending on artstation"
+            },
+            "story": [
+                {
+                    "description": "Hoverbikes zipping past the National Mosque and Cathedral, now community tech hubs. People in futuristic attire, bustling with activity.",
+                    "midjourney_prompt": "Afro-futuristic Abuja, hoverbikes, vibrant community hubs, 8k, cinematic"
+                },
+                {
+                    "description": "Zuma Quantum Park with AR art, traditional Yoruba Orishas as digital guides, lush greenery with glowing panels.",
+                    "midjourney_prompt": "Zuma Quantum Park, AR art, Yoruba Orishas, Afro-futuristic, 8k, vibrant"
+                },
+                {
+                    "description": "Smart Souks with merchants in adire, blockchain transactions, solar stoves, and delivery drones.",
+                    "midjourney_prompt": "Smart Souks Abuja, merchants in adire, blockchain, solar tech, Afro-futuristic market"
+                },
+                {
+                    "description": "Holographic Durbar Festival with 3D historical figures, vibrant projections, global audience.",
+                    "midjourney_prompt": "Holographic Durbar Festival, Abuja, Afro-futuristic, 3D projections, vibrant"
+                }
+            ],
+            "close": {
+                "description": "Abuja skyline at sunset, blending tradition and tech, inviting and hopeful.",
+                "midjourney_prompt": "Abuja 2050 sunset, Afro-futuristic skyline, hopeful, inviting, 8k, serene"
+            }
+        },
+        "production": {
+            "voice_over": {
+                "tool": "Adobe Audition",
+                "voice": "Deep, resonant Nigerian accent",
+                "settings": "Calm, reflective tone",
+                "export_format": "WAV"
+            },
+            "music": {
+                "style": "Afro-futuristic blend of Afrobeats and electronic",
+                "source": "Epidemic Sound",
+                "notes": "Builds from ambient to uplifting, syncing with scene transitions"
+            },
+            "text_overlays": [
+                {
+                    "text": "Abuja 2050: Tradition Meets Tomorrow",
+                    "color": "Gold",
+                    "animation": "Fade In",
+                    "section": "hook"
+                },
+                {
+                    "text": "Where Every Corner Tells a Story",
+                    "color": "Deep Blue",
+                    "animation": "Slide In",
+                    "section": "story"
+                }
+            ],
+            "automation": {
+                "script": "Otter.ai for transcription",
+                "visuals": "MidJourney for images",
+                "editing": "Premiere Pro",
+                "scheduling": "Hootsuite",
+                "engagement": "In-video questions"
+            }
+        }
+    },
+    "compound-beta": {
+        "script": {
+            "hook": "Imagine Abuja in 2050: A City Reborn",
+            "story": [
+                "In 2050, Abuja has transformed into a sustainable city with a population of 10 million people. The city is powered by 100% renewable energy, with solar panels and wind turbines generating electricity.",
+                "Abuja's infrastructure has evolved with smart roads, intelligent traffic management, and efficient public transportation. The city features advanced waste management systems and green spaces.",
+                "The city's cultural scene has flourished, with a blend of traditional and modern architecture. The Abuja Cultural Center hosts various festivals, showcasing Nigerian art, music, and fashion.",
+                "Abuja has become a hub for innovation, with tech startups and entrepreneurs driving growth. The city features advanced healthcare facilities, virtual reality education centers, and AI-powered services.",
+                "Abuja's commitment to sustainability has made it a model for other cities. The city continues to innovate, with a focus on environmental conservation and social equity."
+            ],
+            "close": "Join us in 2050: Abuja, a city reborn"
+        },
+        "visuals": {
+            "hook": {
+                "description": "A stunning aerial view of Abuja with a futuristic skyline, showcasing sleek skyscrapers, and vibrant green spaces. The camera pans down to reveal a bustling street with self-driving cars, pedestrians, and street performers.",
+                "midjourney_prompt": "Abuja 2050 futuristic skyline with sleek skyscrapers and green spaces"
+            },
+            "story": [
+                {
+                    "description": "A futuristic illustration of Abuja's energy grid, showcasing solar panels, wind turbines, and a green energy control center. The background is a bright blue sky with fluffy white clouds.",
+                    "midjourney_prompt": "Abuja 2050 energy grid with solar panels and wind turbines"
+                },
+                {
+                    "description": "A visual representation of Abuja's smart infrastructure, including smart roads, self-driving buses, and green parks. The background is a warm sunset with a bustling cityscape.",
+                    "midjourney_prompt": "Abuja 2050 smart infrastructure with smart roads and self-driving buses"
+                },
+                {
+                    "description": "A vibrant illustration of the Abuja Cultural Center, featuring traditional Nigerian architecture with modern twists. The background is a colorful celebration with people wearing traditional attire and enjoying local cuisine.",
+                    "midjourney_prompt": "Abuja 2050 cultural center with traditional Nigerian architecture"
+                },
+                {
+                    "description": "A futuristic depiction of Abuja's tech hub, showcasing sleek glass buildings, virtual reality headsets, and AI-powered robots. The background is a bright, futuristic cityscape with neon lights.",
+                    "midjourney_prompt": "Abuja 2050 tech hub with sleek glass buildings and virtual reality headsets"
+                },
+                {
+                    "description": "A stunning aerial view of Abuja at sunset, with lush green spaces, sparkling water bodies, and a thriving metropolis. The camera pans up to reveal a bright, starry night sky.",
+                    "midjourney_prompt": "Abuja 2050 aerial view at sunset with green spaces and water bodies"
+                }
+            ],
+            "close": {
+                "description": "A futuristic illustration of Abuja's skyline at night, with a call-to-action to engage with the channel and explore more about the city's future.",
+                "midjourney_prompt": "Abuja 2050 skyline at night with a call-to-action"
+            }
+        },
+        "production": {
+            "voice_over": {
+                "tool": "Nigerian Pidgin accent",
+                "voice": "Upbeat and engaging",
+                "settings": "Clear and crisp audio",
+                "export_format": "MP3"
+            },
+            "music": {
+                "style": "Futuristic African rhythms",
+                "source": "Upbeat and energetic soundtrack",
+                "notes": "Blend of African rhythms with electronic elements"
+            },
+            "text_overlays": [
+                {
+                    "text": "Abuja 2050: A City Reborn",
+                    "color": "#FFFFFF",
+                    "animation": "Dynamic and vibrant",
+                    "section": "hook"
+                },
+                {
+                    "text": "10 million people",
+                    "color": "#FFFFFF",
+                    "animation": "Subtle and informative",
+                    "section": "story"
+                }
+            ],
+            "automation": {
+                "script": "Automated script with voice-over and music",
+                "visuals": "AI-generated visuals with midjourney prompts",
+                "editing": "Automated editing with text overlays and transitions",
+                "scheduling": "Scheduled upload to YouTube",
+                "engagement": "Call-to-action to engage with the channel and explore more"
+            }
+        }
+    },
+    "gemma2-9b-it": {
+        "script": {
+            "hook": "Imagine a future Abuja, where the magic of tradition meets the pulse of innovation. Do you see it?",
+            "story": [
+                "The cityscape shimmers under a day sky painted with solar sails. Sky gardens, bursting with the vibrant hues of adire patterns, dot the skyline. The once-familiar city center echoes with the buzzing hum of electric pods, weaving seamlessly through the rejuvenated streets.",
+                "Young innovators, their faces lit by holographic projections, flock to the digital innovation hub nestled where Jabi Lake once stood. Here, ancient algorithms find new life, breathing life into traditions like storytelling and music, taking them into the digital realm.",
+                "At the reconstructed Abuja National Mosque, a blend of Islamic architecture and futuristic design dominates the skyline. The muezzin's call now blends with the rhythmic pulse of a new generation's call to prayer – a harmonious fusion of faith and progress."
+            ],
+            "close": "This is just a glimpse. What will future Abuja hold? Let's explore together."
+        },
+        "visuals": {
+            "hook": {
+                "description": "A panoramic view of Abuja, bathed in the warm glow of a setting sun. The Nnamdi Azikiwe International Airport looms large in the background, humming with activity. The forefront showcases traditional Nigerian patterns woven into futuristic housing designs.  A lone figure stands silhouetted against the cityscape, gazing at a holographic projection hovering above the ground.",
+                "midjourney_prompt": "--ar 16:9 A sprawling metropolis at sunset, futuristic buildings merged with traditional Nigerian patterns, vibrant holographic projections, silhouetted figure contemplating the future"
+            },
+            "story": [
+                {
+                    "description": "A bustling cityscape, dominated by towering structures adorned with adire-inspired solar panels.  Electric pods, resembling sleek beetles, navigate the cityscape, passing by sky gardens where vibrant flora flourishes. In the foreground, traditional marketplaces pulsate with energy, where android vendors assist human shoppers, displaying goods through holographic interfaces.",
+                    "midjourney_prompt": "--ar 16:9 Abuja cityscape, futuristic architecture with adire patterns solar panels, electric pods, sky gardens teeming with flora, vibrant marketplaces with holographic interfaces and android vendors"
+                },
+                {
+                    "description": "Interior of a luminous digital innovation hub. Young Nigerian innovators, clad in colourful clothing infused with glowing circuitry, work on holographic displays showcasing intricate algorithms and code. The walls pulse with data visualizations, and robots resembling Anansi the spider weave through the space, delivering refreshments and supplies.",
+                    "midjourney_prompt": "--ar 16:9 A futuristic digital innovation hub, vibrant young innovators with glowing circuitry clothing, holographic displays, data visualizations dancing across walls, Anansi-inspired robots delivering supplies"
+                },
+                {
+                    "description": "High-angle view of the reconstructed Abuja National Mosque, a majestic structure blending Islamic architecture with futuristic elements. The dome glows softly, emanating a warm light. Inside, the Grand Muezzin gives the call to prayer, his voice amplified by a futuristic sound system. The architecture seamlessly transports the faithful into a space of serenity and technological wonder. ",
+                    "midjourney_prompt": "--ar 16:9 Abuja National Mosque, soaring dome glowing with internal light, blends Islamic architecture with futuristic elements, Grand Muezzin giving call to prayer, serene atmosphere infused with technology"
+                }
+            ],
+            "close": {
+                "description": "A panoramic view of Abuja at night, the cityscape bathed in the glow of holographic displays and neon lights. In the distance, a colossal, shimmering web wraps around the city, pulsating with data streams. Tiny figures walk beneath a night sky painted with constellations of electric fireflies.",
+                "midjourney_prompt": "--ar 16:9 Futuristic Abuja skyline at night, holographic displays and neon lights illuminate the cityscape, a shimmering web of data encircles the city, tiny figures silhouetted against a night sky filled with glowing constellations of fireflies"
+            }
+        },
+        "production": {
+            "voice_over": {
+                "tool": "Murf.ai",
+                "voice": "Aaliyah",
+                "settings": "Warm, friendly, slightly futuristic tone",
+                "export_format": "mp3"
+            },
+            "music": {
+                "style": "Afrofuturistic, electronic with traditional Nigerian instruments",
+                "source": "Original composition or royalty-free music library",
+                "notes": "Upbeat and inspiring, but with a contemplative undertone"
+            },
+            "text_overlays": [
+                {
+                    "text": "2050: Abuja, A City Reimagined",
+                    "color": "White",
+                    "animation": "Fade In and Out",
+                    "section": "hook"
+                },
+                {
+                    "text": "Tradition Meets Innovation",
+                    "color": "Blue",
+                    "animation": "Slide From Bottom",
+                    "section": "story"
+                }
+            ],
+            "automation": {
+                "script": "Use a text-to-speech tool to automatically generate the voice-over",
+                "visuals": "AI image generation using Midjourney prompts for each scene",
+                "editing": "Utilize Adobe Premiere Pro or a similar video editing software to edit the visuals and voice-over together",
+                "scheduling": "Upload the finals YouTube Shorts at regular intervals for optimal engagement",
+                "engagement": "Respond to comments, encourage discussion, and create polls or quizzes to increase viewer interaction"
+            }
+        }
+    },
+    "llama-3.3-70b-versatile": {
+        "script": {
+            "hook": "What if the future of Abuja was not just a city, but a beacon of African innovation?",
+            "story": [
+                "In 2050, Abuja stands as a testament to human ingenuity and African resilience. The city's skyline is a marvel of modern architecture, with towering skyscrapers and neon lights that reflect the vibrant culture of its people.",
+                "The streets are filled with flying taxis and hyperloops, connecting Abuja to the rest of the world in unprecedented ways. Yet, amidst the hustle and bustle, the city's rich cultural heritage remains intact, with traditional artisans and musicians blending their crafts with cutting-edge technology.",
+                "Abuja's famous Zuma Rock has been transformed into a quantum beacon, broadcasting the city's innovations to the world. The rock's ancient granite now glows with a soft, ethereal light, symbolizing the fusion of tradition and progress.",
+                "At the heart of the city lies the Abuja Solar Market, where merchants sell everything from sustainable energy solutions to locally sourced, high-tech electronics. The market is a haven for start-ups and entrepreneurs, fostering a spirit of creativity and collaboration that defines Abuja's approach to innovation.",
+                "As night falls, the city comes alive with the sound of Afrobeat music and the glow of neon lights. People from all walks of life gather to celebrate the city's diversity and the limitless potential of its people."
+            ],
+            "close": "Join us next time on Nari Drift as we explore more visions of Africa's future. What city will we visit next?"
+        },
+        "visuals": {
+            "hook": {
+                "description": "A futuristic cityscape with flying taxis and hyperloops connecting to a glowing Zuma Rock in the distance. The sky is a deep shade of purple with a hint of orange, symbolizing the fusion of technology and tradition. The city's buildings are adorned with intricate, neon-lit patterns inspired by African textiles.",
+                "midjourney_prompt": "Abuja cityscape, futuristic, flying taxis, hyperloops, Zuma Rock, glowing, African patterns, neon lights, purple and orange sky"
+            },
+            "story": [
+                {
+                    "description": "A bustling street scene with people from diverse backgrounds walking alongside flying taxis and hyperloops. The buildings are a mix of modern skyscrapers and traditional African architecture, with vibrant markets and food stalls. The atmosphere is lively, with a sense of excitement and possibility.",
+                    "midjourney_prompt": "Abuja street scene, diverse people, flying taxis, hyperloops, modern and traditional architecture, vibrant markets, African patterns, bright colors"
+                },
+                {
+                    "description": "A close-up of a traditional artisan blending their craft with cutting-edge technology. The artisan is surrounded by tools and materials, with a flying taxi visible through the window. The atmosphere is one of creative experimentation and innovation.",
+                    "midjourney_prompt": "Abuja artisan, traditional craft, cutting-edge technology, flying taxi, creative experimentation, African patterns, warm colors"
+                },
+                {
+                    "description": "A futuristic, glowing Zuma Rock standing tall amidst the city's skyscrapers. The rock is surrounded by a halo of light, symbolizing its role as a quantum beacon. The atmosphere is one of awe and wonder.",
+                    "midjourney_prompt": "Zuma Rock, glowing, quantum beacon, Abuja cityscape, futuristic, African patterns, neon lights, purple and orange sky"
+                },
+                {
+                    "description": "A bustling market scene with merchants selling sustainable energy solutions and locally sourced electronics. The market is filled with vibrant colors and patterns, with people from diverse backgrounds browsing the stalls. The atmosphere is lively, with a sense of community and innovation.",
+                    "midjourney_prompt": "Abuja Solar Market, sustainable energy, locally sourced electronics, diverse people, vibrant colors, African patterns, bright lights"
+                },
+                {
+                    "description": "A nighttime cityscape with neon lights and Afrobeat music filling the air. People are gathered in a public square, celebrating the city's diversity and creativity. The atmosphere is one of joy and celebration.",
+                    "midjourney_prompt": "Abuja nighttime, neon lights, Afrobeat music, public square, celebration, diverse people, African patterns, bright colors"
+                }
+            ],
+            "close": {
+                "description": "A shot of the Nari Drift logo, with the tagline 'Exploring Africa's Future' appearing below. The background is a deep shade of purple, symbolizing the limitless potential of the African continent. The atmosphere is one of anticipation and excitement.",
+                "midjourney_prompt": "Nari Drift logo, Exploring Africa's Future, purple background, African patterns, bright colors"
+            }
+        },
+        "production": {
+            "voice_over": {
+                "tool": "Adobe Audition",
+                "voice": "Nigerian accent, warm and engaging",
+                "settings": "Moderate pace, gentle inflections",
+                "export_format": "WAV, 44.1 kHz, 16-bit"
+            },
+            "music": {
+                "style": "Afrobeat, electronic",
+                "source": "Original composition, incorporating traditional African instruments and rhythms",
+                "notes": "Start with a soft, percussive intro, building into a lively and uplifting melody"
+            },
+            "text_overlays": [
+                {
+                    "text": "Abuja 2050",
+                    "color": "#FFFFFF",
+                    "animation": "Fade in, 2 seconds",
+                    "section": "hook"
+                },
+                {
+                    "text": "Join us next time on Nari Drift",
+                    "color": "#FFFFFF",
+                    "animation": "Fade in, 2 seconds",
+                    "section": "close"
+                }
+            ],
+            "automation": {
+                "script": "Automate voice-over recording and editing using Adobe Audition",
+                "visuals": "Use midjourney to generate visuals, with manual review and editing",
+                "editing": "Assemble the final video using Adobe Premiere Pro, with a mix of fast-paced and slow-burning sequences",
+                "scheduling": "Schedule the video for release on social media and YouTube, with accompanying posts and engagement prompts",
+                "engagement": "Monitor comments and responses, engaging with viewers and encouraging discussion about Africa's future"
+            }
+        }
+    },
+    "qwen/qwen3-32b": {
+        "script": {
+            "hook": "Abuja 2050: Where the heartbeat of Africa meets tomorrow's dreams. What's in store?",
+            "story": [
+                "In 2050, Abuja’s skyline glows with solar-drenched towers shaped like adinkra symbols. The Aso Rock, now a quantum communication hub, pulses with holographic greetings in Pidgin and Yoruba, while self-driving pods glide on elevated roads once choked by traffic. The capital’s ‘Green Belt’ policy has birthed forests of vertical gardens—walls of mango, baobab, and neem trees filtering carbon from the air.",
+                "At the Garki Riverwalk, kids barter NFTs of old stories for AI-made akara balls. The Federal Palace, now a neural-net archive, hosts debates between AI griots reciting Hausa poetry and scholars from Kano’s revived tech书院. Even Abuja’s sprawling slums hum with innovation: 3D-printed mud-brick homes powered by biogas from market waste.",
+                "The Durbar Festival? A fusion of ancient horse dances and drone choreography. Equestrians wear light-up agbada jackets as holographic masks—digital descendants of traditional gelede—swirl above them. In Umoja Park, a new monument rises: the ‘Tree of Unity,’ its fractal branches made of recycled aluminum from Lagos’s shipyards and Kano’s granaries."
+            ],
+            "close": "But in Abuja’s shadow, a question burns: can Africa’s future stay rooted in its soul? Tell us your vision for 2050 in the comments—tag #NariDriftFuture!"
+        },
+        "visuals": {
+            "hook": {
+                "description": "A cinematic zoom over Abuja’s horizon at sunrise, solar towers shaped like Yoruba ‘elekesi’ braids glow gold, and Aso Rock emits holographic ripples. The National Mosque’s minaret is a spiraling green ramp for vertical farming. Lush forests frame the scene in saturated greens and electric blues.",
+                "midjourney_prompt": "Afro-futuristic Abuja 2050, glowing adinkra tower skyline, Aso Rock as a holographic hub, vertical gardens, Yoruba/Y Hausa motifs on buildings, hyper-detailed, 4K, vibrant"
+            },
+            "story": [
+                {
+                    "description": "Wide-angle shot of a self-driving pod gliding along a graphene-track elevated road, passing under a market with stalls selling biowaste 3D printers. Workers in neon adire-patterned overalls plant rooftop gardens. A digital billboard displays a proverb: ‘The rain that feeds the earth is the same that cleanses the sky.’",
+                    "midjourney_prompt": "Abuja’s smart roadways, neon adire patterns, graphene tracks, vertical farms, Afro-holographic billboard, neon-green lighting, bustling multicultural crowd"
+                },
+                {
+                    "description": "Montage of Durbar Festival: a horseman in holographic efa cloth galloping beside a swarm of drone-jackals. Close-up on a child receiving a story-gem from a market vendor—the gem glows with a hologram of Queen Amina. A split-screen shows the Federal Palace’s neural archive: AI griots (digital Yoruba masks) debate with holographic elders in Hausa.",
+                    "midjourney_prompt": "Afro-futuristic Durbar Festival, efa-clad horsemen + drone jackals, story-gem technology, Federal Palace neural archive, holographic Queen Amina, split-screen drama"
+                },
+                {
+                    "description": "Overhead view of Umoja Park’s fractal tree sculpture, its aluminum branches shimmering like molten metal. Zoom into a community in recycled mud-brick homes, their roofs lit with biogas flames. A drone sprays rainwater on gardens of roselle and egusi. Text overlay: ‘Abuja 2050: 97% carbon neutral’.",
+                    "midjourney_prompt": "Fractal aluminum tree in Umoja Park, glowing biogas homes, drone watering gardens, Afro-futuristic cityscape, warm ochre and teal contrast"
+                }
+            ],
+            "close": {
+                "description": "A split-screen of contrasting scenes: one side shows a glowing, green Abuja; the other, shadowy slums with limited tech access. A single adinkra symbol ‘Sankofa’ (return and fetch it) pulses red at the center, with the Nari Drift logo overlay.",
+                "midjourney_prompt": "Afro-futuristic split-screen contrast: lush Abuja vs. shadow slums, glowing Sankofa symbol in red, Nari Drift logo pulse"
+            }
+        },
+        "production": {
+            "voice_over": {
+                "tool": "ElevenLabs",
+                "voice": "Nigerian Yoruba/Breaking News, 1.2x speed",
+                "settings": "Add warmth reverb for storytelling, slight echo on key phrases",
+                "export_format": "MP3 with 3-second intro/outro fades"
+            },
+            "music": {
+                "style": "Afrobeat 2.0 (Afrobeats + synthwave)",
+                "source": "Epidemic Sound ‘Afro-Futurism’ playlist",
+                "notes": "Use 30-second intro for hook, crescendo during story montage, ambient strings for close"
+            },
+            "text_overlays": [
+                {
+                    "text": "Abuja 2050: Where Roots Meet Rockets",
+                    "color": "#FFD700",
+                    "animation": "Fade in with holographic flicker",
+                    "section": "hook"
+                },
+                {
+                    "text": "Green Abuja Initiative: 10,000,000 trees planted by 2035",
+                    "color": "#00FF00",
+                    "animation": "Slide in from top",
+                    "section": "story"
+                },
+                {
+                    "text": "Tag #NariDriftFuture for a chance to win a VR Abuja Time Traveler!",
+                    "color": "#FF69B4",
+                    "animation": "Bounce with sparkle",
+                    "section": "close"
+                }
+            ],
+            "automation": {
+                "script": "Generate via JSON parsing bot every 24 hrs with trending tags",
+                "visuals": "Midjourney v6 API + DALL·E 3 integration for prompt refinement",
+                "editing": "CapCut automated cut using audio timestamp mapping",
+                "scheduling": "Post via TubeBuddy at 5:00 PM WAT for max reach",
+                "engagement": "Auto-reply: ‘Check our profile for more future cities!’ to comments"
+            }
+        }
+    },
+    "moonshotai/kimi-k2-instruct": {
+        "script": {
+            "hook": "What if I told you that in 2050, Abuja no longer sleeps—because it dreams the entire nation awake?",
+            "story": [
+                "In 2050, Abuja’s Zuma Rock glows like a quantum lighthouse, its ancient face now alive with moving adire fractals. Every dawn, the rock pulses once, and every citizen feels a gentle hum in their neural anklet—the city’s heartbeat synchronised with 200 million others.",
+                "Below it, the National Mosque and the National Cathedral share one roof: the Unity Dome. Its solar glass captures the sun, powers the city, and projects holographic verses and psalms that dance together in the air like twin fireflies—one in Arabic, one in Igbo, Yoruba and Hausa.",
+                "The Kubwa Expressway is now the Green Braid—an elevated garden highway where commuter pods glide on magnetic lily pads. Vendors float beside them on anti-gravity trays, selling puff-puff that steams in zero-gravity spirals while AI griots rap proverbs in Pidgin and Gbagyi.",
+                "Yet the real magic is underground. Beneath Jabi Lake, a coral-lit sub-city hums: the Jabi Reef. Climate refugees from the Sahel farm salt-resistant millet in glowing hydroponic stacks. Their harvest is celebrated every October at the AquaDurbar—where holographic horses dive through liquid streets."
+            ],
+            "close": "But on Unity Day 2050, the heartbeat skips—Zuma Rock flickers. What happens next, Naija? Tell me in the comments before the light returns."
+        },
+        "visuals": {
+            "hook": {
+                "description": "A colossal Zuma Rock under a star-drunk sky, its surface animated with glowing blue-white adire fractals that pulse like a living circuit. The rock is mirrored in a still lake, doubling the light. Foreground: a lone silhouette in flowing white agbada with a faint cyan glow at the ankle. Atmosphere: dreamlike, misty, electric. Colors: midnight blue, cyan, soft white. Lighting: bioluminescent, moonlit highlights on rock edges.",
+                "midjourney_prompt": "Afro-futurist night scene, Zuma Rock transformed into luminous quantum beacon, adire fractal animations, mirror lake reflection, lone figure in white agbada with neural anklet glowing, cyan bioluminescence, ethereal mist, 8k cinematic --ar 9:16 --v 5"
+            },
+            "story": [
+                {
+                    "description": "Wide aerial at sunrise. Zuma Rock in background, its face now a massive holographic screen streaming geometric adire patterns that ripple like water. Foreground: scattered citizens on a rooftop garden lifting wrists to watch their anklets pulse in sync with the rock. Sky: pastel orange and indigo gradient. Vibe: calm, communal, mystical.",
+                    "midjourney_prompt": "Sunrise over Abuja 2050, Zuma Rock as giant holographic adire canvas, rooftop garden with citizens in colorful traditional fabrics, neural anklets glowing, pastel sky, Afro-futurist harmony --ar 9:16 --v 5"
+                },
+                {
+                    "description": "Interior of the Unity Dome—an impossibly large transparent canopy arching over both the mosque and cathedral. Sunlight refracts through solar glass, projecting shifting holographic Arabic calligraphy and Igbo/Yoruba/Hausa scripts that intertwine like DNA. People of all faiths sit on floating prayer mats. Colors: gold, teal, coral. Lighting: divine, lens-flare rich.",
+                    "midjourney_prompt": "Afro-futurist Unity Dome, transparent solar glass roof, holographic intertwined Arabic and Nigerian scripts, floating prayer mats, multicultural crowd, golden hour light rays, sacred atmosphere --ar 9:16 --v 5"
+                },
+                {
+                    "description": "Elevated view of the Green Braid: a multilevel garden highway with lush vegetation, magenta bougainvillea draping over maglev tracks. Pods glide silently on glowing lily-pad pads. Anti-gravity vendor trays float beside them selling glowing puff-puff. Background: distant skyline of eco-towers. Colors: green, magenta, chrome. Lighting: midday sun with soft bloom.",
+                    "midjourney_prompt": "Afro-futurist Abuja Green Braid highway, garden overpass with maglev pods on lily-pad magnets, floating vendor trays, glowing puff-puff, eco-towers skyline, vibrant greens and magentas, daylight glow --ar 9:16 --v 5"
+                },
+                {
+                    "description": "Submerged Jabi Reef: a vast underwater amphitheater with coral-pink LED racks of millet glowing like bioluminescent wheat. Citizens in streamlined scuba-adire suits dance with holographic horses that gallop through liquid streets. Schools of luminous fish trail behind. Colors: coral, electric pink, teal. Lighting: soft under-sea glow, bubbles rising like champagne.",
+                    "midjourney_prompt": "Underwater Afro-futurist city Jabi Reef, glowing hydroponic millet racks, coral pink LEDs, citizens in adire-inspired scuba suits, holographic horses diving through water, bioluminescent fish, dreamy teal ambiance --ar 9:16 --v 5"
+                }
+            ],
+            "close": {
+                "description": "Close-up on Zuma Rock at twilight; the fractal lights stutter and dim. A single red pulse travels across the patterns, then vanishes. Foreground: a trembling hand reaching toward the rock, holographic anklet flickering red. Sky: bruised violet with one lightning fork. Mood: suspenseful, charged, expectant.",
+                "midjourney_prompt": "Twilight Abuja 2050, Zuma Rock fractal lights glitching red, trembling hand with flickering red anklet, violet storm sky, single lightning bolt, Afro-futurist cliffhanger --ar 9:16 --v 5"
+            }
+        },
+        "production": {
+            "voice_over": {
+                "tool": "ElevenLabs",
+                "voice": "Afro-Nigerian Female (Warm)",
+                "settings": "speed 1.05, slight Yoruba lilt",
+                "export_format": "mp3 48k"
+            },
+            "music": {
+                "style": "Afro-futurist synth-fuji",
+                "source": "AIVA custom track",
+                "notes": "Start with soft kalimba arps, build to pulsing log drum, end on suspended chord"
+            },
+            "text_overlays": [
+                {
+                    "text": "Abuja 2050: The City That Dreams",
+                    "color": "#00FFFF",
+                    "animation": "typewriter",
+                    "section": "hook"
+                },
+                {
+                    "text": "Unity Dome",
+                    "color": "#FFD700",
+                    "animation": "slide-up",
+                    "section": "story"
+                },
+                {
+                    "text": "Green Braid Highway",
+                    "color": "#FF1493",
+                    "animation": "fade-in",
+                    "section": "story"
+                },
+                {
+                    "text": "Jabi Reef",
+                    "color": "#FF69B4",
+                    "animation": "zoom-out",
+                    "section": "story"
+                },
+                {
+                    "text": "What happens next?",
+                    "color": "#FF0000",
+                    "animation": "heartbeat",
+                    "section": "close"
+                }
+            ],
+            "automation": {
+                "script": "Generate with GPT-4-turbo → human review → ElevenLabs TTS",
+                "visuals": "Midjourney prompts → Topaz upscale → RunwayML motion → CapCut",
+                "editing": "CapCut template: 1-second beat cuts, 0.2-second flash transitions on keywords",
+                "scheduling": "Post Sundays 7 p.m. WAT, add #AfroFuture #Abuja2050 #NariDrift",
+                "engagement": "Pin top comment asking viewers to vote: glitch or rebirth?"
+            }
+        }
+    }
+}

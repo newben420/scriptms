@@ -38,6 +38,7 @@ const models = {
     "mistral-saba-24b": { RPM: 30, RPD: 1000, TPM: 6000, TPD: 500000 },
     "qwen-qwq-32b": { RPM: 30, RPD: 1000, TPM: 6000 },
     "qwen/qwen3-32b": { RPM: 60, RPD: 1000, TPM: 6000 },
+    "moonshotai/kimi-k2-instruct": { RPM: 60, RPD: 1000, TPM: 6000, TPD: 500000 },
 };
 class ActiveModel {
 }

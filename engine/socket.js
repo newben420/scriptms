@@ -11,6 +11,7 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
 var _a;
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.SocketEngine = void 0;
+const extract_json_1 = require("./../lib/extract_json");
 const log_1 = require("../lib/log");
 const data_1 = require("./data");
 const site_1 = require("../site");
@@ -96,7 +97,12 @@ SocketEngine.runOnce = () => {
                 if (res.succ) {
                     let p = null;
                     try {
-                        p = JSON.parse(res.message);
+                        try {
+                            p = JSON.parse(res.message);
+                        }
+                        catch (error) {
+                            p = (0, extract_json_1.extractJsonFromText)(res.message);
+                        }
                     }
                     catch (error) {
                         p = null;
@@ -108,15 +114,15 @@ SocketEngine.runOnce = () => {
                                 output: p,
                             };
                             const v = yield data_1.DataEngine.write(url, JSON.stringify(f));
-                            cb(v);
+                            cb(v, 'Success');
                         }
                         else {
-                            cb(false);
+                            cb(false, 'Could not parse LLM response.');
                         }
                     }
                 }
                 else {
-                    cb(false);
+                    cb(false, res.extra.reason || 'LLM inference error.');
                 }
             }));
             socket.on("READ_FILE", (url, cb) => __awaiter(void 0, void 0, void 0, function* () {
