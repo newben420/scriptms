@@ -12,6 +12,7 @@ var _a;
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.SocketEngine = void 0;
 const extract_json_1 = require("./../lib/extract_json");
+const script_1 = require("./../model/script");
 const log_1 = require("../lib/log");
 const data_1 = require("./data");
 const site_1 = require("../site");
@@ -109,12 +110,17 @@ SocketEngine.runOnce = () => {
                     }
                     finally {
                         if (p) {
-                            const f = {
-                                base_ideas: ideas,
-                                output: p,
-                            };
-                            const v = yield data_1.DataEngine.write(url, JSON.stringify(f));
-                            cb(v, 'Success');
+                            if ((0, script_1.isValidScript)(p)) {
+                                const f = {
+                                    base_ideas: ideas,
+                                    output: p,
+                                };
+                                const v = yield data_1.DataEngine.write(url, JSON.stringify(f));
+                                cb(v, 'Success');
+                            }
+                            else {
+                                cb(false, 'Generated script is not valid. Please try again.');
+                            }
                         }
                         else {
                             cb(false, 'Could not parse LLM response.');

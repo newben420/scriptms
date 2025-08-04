@@ -1,6 +1,6 @@
 # ScriptMS
 
-ScriptMS is a lightweight, open-source system designed to help manage and generate scripts for faceless channel brands. It focuses on crafting imaginative, culturally rich stories set in futuristic worlds, specifically imagining Nigerian cities in the future. This tool blends local traditions with cutting-edge technology to envision what cities might become, streamlining the creative process for content creators. ScriptMS combines an Express backend with an Angular frontend, designed for local deployment and customization by anyone passionate about creative storytelling.
+ScriptMS is a lightweight, open-source system designed to help manage and generate scripts for faceless channel brands. It focuses on crafting imaginative, culturally rich stories set in futuristic worlds, specifically imagining African cities in the future. This tool blends local traditions with cutting-edge technology to envision what cities might become, streamlining the creative process for content creators. ScriptMS combines an Express backend with an Angular frontend, designed for local deployment and customization by anyone passionate about creative storytelling.
 
 ---
 
@@ -13,7 +13,7 @@ ScriptMS is a lightweight, open-source system designed to help manage and genera
 - **Local File System Storage**: Ensure persistence and accessibility of your work without relying on external databases.
 - **Groq Integration**: Generate scripts using a powerful AI prompt that creates all aspects of a script given just the city, year, and optional base ideas.
 - **Production Notes**: Include voice-over, music, and automation details for a complete production pipeline.
-- **Afro-Futurist Aesthetic**: Focus on hope, resilience, and innovation, incorporating Nigerian cultural motifs and avoiding dystopian themes.
+- **Afro-Futurist Aesthetic**: Focus on hope, resilience, and innovation, incorporating African cultural motifs and avoiding dystopian themes.
 
 ---
 
